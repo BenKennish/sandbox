@@ -41,4 +41,3 @@ $qry = mysql_query('SELECT * FROM language WHERE name = "PHP"')
 
 
 // NB: Don't end the script with question-mark-close-triangle bracket as without it there are no problems with trailing spaces 
-// This comment added pointlessly
