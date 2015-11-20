@@ -25,10 +25,10 @@ else
 // space after ';' - no space before '++'
 for ($i = 1; $i < count($array); $i++)
 {
-     // no space after !
-     if (!$array[$i]) continue;  // all-on-one-line if statement
+    // no space after !
+    if (!$array[$i]) continue;  // all-on-one-line if statement
 
-     echo "array[$i] = $array[$i] ";
+    echo "array[$i] = $array[$i] ";
 }
 
 
