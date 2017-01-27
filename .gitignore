@@ -4,3 +4,9 @@
 *.swp
 *.log
 !dontIgnoreThis.log
+
+# ignore all .txt files in the doc directory and below
+doc/**/*.txt
+
+# ignore all .pdf filee in the doc directory
+doc/*.pdf
